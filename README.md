@@ -60,6 +60,7 @@
  - [Harshita shrivas](https://github.com/Harshitabh)
  - [RUPALI SAHU](https://github.com/rupali399)
  - [Srishti Gupta](https://github.com/Srishti19111999)
+ - [shruti chakraborty](https://github.com/chakraborty-shruti)
   
   
   
